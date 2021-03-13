@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ChocolateCircus445
 - 👀 I’m interested in programming, computers, and rhythm games
 - 🌱 I’m currently learning Java (but I'll probably forget it :pensive: )
+- 🗣️ I speak English, Japanese, JavaScript and Python
 - 📫 Check [chocolatecircus445.github.io](https://chocolatecircus445.github.io) for my contact info
 
 <!---
